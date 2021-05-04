@@ -1,0 +1,8 @@
+# INSTALLATION
+- run 'python setup.py'
+
+#Startup
+-run 'python mail.py'
+
+#Author
+- dbkamoda@gmail.com
